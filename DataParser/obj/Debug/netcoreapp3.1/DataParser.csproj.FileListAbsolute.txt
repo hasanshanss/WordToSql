@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.exe
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.deps.json
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.runtimeconfig.json
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.runtimeconfig.dev.json
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.dll
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\DataParser.pdb
+C:\Users\User\source\repos\WordToSql\DataParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.AssemblyInfo.cs
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.csproj.CopyComplete
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.dll
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.pdb
+C:\Users\User\source\repos\WordToSql\DataParser\obj\Debug\netcoreapp3.1\DataParser.genruntimeconfig.cache
